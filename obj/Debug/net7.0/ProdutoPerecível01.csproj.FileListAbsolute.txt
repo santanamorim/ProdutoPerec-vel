@@ -1,0 +1,15 @@
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/bin/Debug/net7.0/ProdutoPerecível01
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/bin/Debug/net7.0/ProdutoPerecível01.deps.json
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/bin/Debug/net7.0/ProdutoPerecível01.runtimeconfig.json
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/bin/Debug/net7.0/ProdutoPerecível01.dll
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/bin/Debug/net7.0/ProdutoPerecível01.pdb
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.csproj.AssemblyReference.cache
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.AssemblyInfoInputs.cache
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.AssemblyInfo.cs
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.csproj.CoreCompileInputs.cache
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.dll
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/refint/ProdutoPerecível01.dll
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.pdb
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ProdutoPerecível01.genruntimeconfig.cache
+/Users/williamsantanadeamorim/Projects/ProdutoPerecível01/ProdutoPerecível01/obj/Debug/net7.0/ref/ProdutoPerecível01.dll
